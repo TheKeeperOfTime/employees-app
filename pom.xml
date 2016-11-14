@@ -83,7 +83,7 @@
                     <finalName>employees-app-${project.version}</finalName>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.employees.Main</mainClass>
+                            <mainClass>com.example.employees-app.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
